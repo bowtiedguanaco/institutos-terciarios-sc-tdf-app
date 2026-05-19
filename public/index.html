@@ -5,14 +5,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Institutos terciarios SC/TDF</title>
   <link rel="stylesheet" href="styles.css" />
-  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 </head>
 <body>
   <div id="auth" class="auth-shell">
     <section class="auth-card">
       <div class="eyebrow">Acceso privado</div>
       <h1>Institutos terciarios — Santa Cruz y Tierra del Fuego</h1>
-      <p class="muted">Ingresá con Supabase Auth para ver el tablero dinámico.</p>
+      <p class="muted">Ingresá con las credenciales privadas para ver el tablero dinámico.</p>
       <form id="loginForm" class="login-form">
         <label>Email
           <input id="email" type="email" autocomplete="email" value="santiago.pauli@cau.ues21.edu.ar" required />
@@ -25,7 +24,7 @@
       <p id="authMessage" class="message"></p>
       <details class="setup-box" id="setupBox" hidden>
         <summary>Configuración pendiente</summary>
-        <p>Faltan variables de Supabase en Vercel: <code>SUPABASE_URL</code> y <code>SUPABASE_ANON_KEY</code>.</p>
+        <p>El acceso privado está configurado localmente para este tablero.</p>
       </details>
     </section>
   </div>
