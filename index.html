@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Institutos terciarios SC/TDF</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div id="auth" class="auth-shell">
+    <section class="auth-card">
+      <div class="eyebrow">Acceso privado</div>
+      <h1>Institutos terciarios — Santa Cruz y Tierra del Fuego</h1>
+      <p class="muted">Ingresá con las credenciales privadas para ver el tablero dinámico.</p>
+      <form id="loginForm" class="login-form">
+        <label>Email
+          <input id="email" type="email" autocomplete="email" value="santiago.pauli@cau.ues21.edu.ar" required />
+        </label>
+        <label>Contraseña
+          <input id="password" type="password" autocomplete="current-password" required />
+        </label>
+        <button type="submit">Entrar</button>
+      </form>
+      <p id="authMessage" class="message"></p>
+      <details class="setup-box" id="setupBox" hidden>
+        <summary>Configuración pendiente</summary>
+        <p>El acceso privado está configurado localmente para este tablero.</p>
+      </details>
+    </section>
+  </div>
+
+  <main id="app" hidden>
+    <header class="topbar">
+      <div>
+        <div class="eyebrow">Tablero CAU</div>
+        <h1>Institutos terciarios SC/TDF</h1>
+        <p class="muted">Vista dinámica tipo Airtable con búsqueda, filtros, ordenamiento y detalle documental.</p>
+      </div>
+      <button id="logoutBtn" class="secondary">Salir</button>
+    </header>
+
+    <section class="stats" id="stats"></section>
+
+    <section class="controls">
+      <label>Buscar
+        <input id="search" type="search" placeholder="Carrera, instituto, resolución, localidad…" />
+      </label>
+      <label>Provincia
+        <select id="provincia"><option value="">Todas</option></select>
+      </label>
+      <label>Tipo
+        <select id="tipo"><option value="">Todos</option></select>
+      </label>
+      <label>Institución
+        <select id="institucion"><option value="">Todas</option></select>
+      </label>
+      <label>Ordenar por
+        <select id="sortField">
+          <option value="Provincia">Provincia</option>
+          <option value="Institucion">Institución</option>
+          <option value="Carrera">Carrera</option>
+          <option value="Tipo">Tipo</option>
+          <option value="Localidad">Localidad</option>
+        </select>
+      </label>
+      <button id="resetBtn" class="secondary">Limpiar</button>
+    </section>
+
+    <section class="tabs">
+      <button class="tab active" data-view="oferta">Oferta académica</button>
+      <button class="tab" data-view="instituciones">Instituciones</button>
+      <button class="tab" data-view="documentos">Documentos</button>
+      <button class="tab" data-view="notas">Notas</button>
+    </section>
+
+    <section class="table-card">
+      <div class="table-meta"><span id="rowCount"></span><span id="coverage"></span></div>
+      <div class="table-wrap"><table id="table"></table></div>
+    </section>
+  </main>
+
+  <dialog id="detailDialog">
+    <button id="closeDialog" class="close" aria-label="Cerrar">×</button>
+    <div id="detailContent"></div>
+  </dialog>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
