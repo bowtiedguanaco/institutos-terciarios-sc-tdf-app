@@ -596,7 +596,9 @@
       "Titulo": "Profesor/a de Inglés",
       "Fuente_URL": "https://www.salesianorg.edu.ar/profesorado-de-ingles/",
       "Documentos_detectados": "Diseño curricular PDF",
-      "Notas": "Validez nacional; sin examen de ingreso; curso introductorio."
+      "Notas": "Validez nacional; sin examen de ingreso; curso introductorio.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "Ya consolidado; fuente institucional Salesiano RG / plan detectado."
     },
     {
       "Provincia": "Santa Cruz",
@@ -608,11 +610,13 @@
       "Modalidad": "Presencial con apoyo de campus virtual",
       "Turno": "",
       "Sede": "",
-      "Resolucion": "",
+      "Resolucion": "Resolución Nº 0909/17",
       "Titulo": "Técnico Superior en Comercio Internacional",
       "Fuente_URL": "https://www.salesianorg.edu.ar/tecnicatura-superior-en-comercio-internacional/",
       "Documentos_detectados": "Plan de estudios PDF",
-      "Notas": "Título oficial con validez nacional."
+      "Notas": "Título oficial con validez nacional.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "/tmp/sc_resoluciones_check/texts/salesiano_tsci.txt"
     },
     {
       "Provincia": "Santa Cruz",
@@ -624,11 +628,13 @@
       "Modalidad": "",
       "Turno": "",
       "Sede": "",
-      "Resolucion": "",
+      "Resolucion": "Nº 631/21/CPE",
       "Titulo": "Profesor/a de Educación Primaria",
       "Fuente_URL": "https://ipesrg-scr.infd.edu.ar/sitio/profesorado-de-educacion-primaria/",
       "Documentos_detectados": "Cuadro plan + correlatividades PDF",
-      "Notas": "Carga horaria 3936 hs cátedra / 2624 hs reloj."
+      "Notas": "Carga horaria 3936 hs cátedra / 2624 hs reloj.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "/tmp/sc_resoluciones_check/texts/ipes_primaria_correl.txt"
     },
     {
       "Provincia": "Santa Cruz",
@@ -644,7 +650,9 @@
       "Titulo": "Profesor/a de Educación Especial con Orientación en Discapacidad Intelectual",
       "Fuente_URL": "https://ipesrg-scr.infd.edu.ar/sitio/profesorado-de-educacion-especial/",
       "Documentos_detectados": "Plan + correlatividades PDF",
-      "Notas": ""
+      "Notas": "",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "Ya consolidado; fuente institucional IPES Río Gallegos."
     },
     {
       "Provincia": "Santa Cruz",
@@ -660,7 +668,9 @@
       "Titulo": "Profesor/a de Educación Especial con Orientación en Sordos e Hipoacúsicos",
       "Fuente_URL": "https://ipesrg-scr.infd.edu.ar/sitio/profesorado-de-educacion-especial/",
       "Documentos_detectados": "Plan + correlatividades PDF",
-      "Notas": ""
+      "Notas": "",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "Ya consolidado; fuente institucional IPES Río Gallegos."
     },
     {
       "Provincia": "Santa Cruz",
@@ -676,7 +686,9 @@
       "Titulo": "",
       "Fuente_URL": "https://cesdeagostini.edu.ar/oferta-academica",
       "Documentos_detectados": "Docs administrativos Google Docs",
-      "Notas": "No se localizaron planes/resoluciones en HTML local."
+      "Notas": "No se localizaron planes/resoluciones en HTML local.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Santa Cruz",
@@ -692,7 +704,9 @@
       "Titulo": "",
       "Fuente_URL": "https://cesdeagostini.edu.ar/oferta-academica",
       "Documentos_detectados": "Docs administrativos Google Docs",
-      "Notas": "No se localizaron planes/resoluciones en HTML local."
+      "Notas": "No se localizaron planes/resoluciones en HTML local.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Santa Cruz",
@@ -708,7 +722,9 @@
       "Titulo": "",
       "Fuente_URL": "https://cesdeagostini.edu.ar/oferta-academica",
       "Documentos_detectados": "Docs administrativos Google Docs",
-      "Notas": "No se localizaron planes/resoluciones en HTML local."
+      "Notas": "No se localizaron planes/resoluciones en HTML local.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Santa Cruz",
@@ -724,7 +740,9 @@
       "Titulo": "",
       "Fuente_URL": "https://cesdeagostini.edu.ar/oferta-academica",
       "Documentos_detectados": "",
-      "Notas": "Figura como especialización para guías de turismo; no se computa como carrera base si se filtra solo tecnicaturas/profesorados."
+      "Notas": "Figura como especialización para guías de turismo; no se computa como carrera base si se filtra solo tecnicaturas/profesorados.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Santa Cruz",
@@ -740,7 +758,9 @@
       "Titulo": "",
       "Fuente_URL": "https://ipesco-scr.infd.edu.ar/sitio/planes-de-estudio-correlatividades-horarios-2024/",
       "Documentos_detectados": "Planes/correlatividades/horarios PDF o Drive",
-      "Notas": "Página de planes 2024; duración no visible en HTML local."
+      "Notas": "Página de planes 2024; duración no visible en HTML local.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "/tmp/bedacarratx.txt; fuente IPES Caleta Olivia."
     },
     {
       "Provincia": "Santa Cruz",
@@ -756,7 +776,9 @@
       "Titulo": "",
       "Fuente_URL": "https://ipesco-scr.infd.edu.ar/sitio/planes-de-estudio-correlatividades-horarios-2024/",
       "Documentos_detectados": "Planes/correlatividades/horarios PDF o Drive",
-      "Notas": "Página de planes 2024; duración no visible en HTML local."
+      "Notas": "Página de planes 2024; duración no visible en HTML local.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "Fuente IPES Caleta Olivia; consolidado previo."
     },
     {
       "Provincia": "Santa Cruz",
@@ -772,7 +794,9 @@
       "Titulo": "",
       "Fuente_URL": "https://ipesco-scr.infd.edu.ar/sitio/planes-de-estudio-correlatividades-horarios-2024/",
       "Documentos_detectados": "Planes/correlatividades/horarios PDF o Drive",
-      "Notas": "Página de planes 2024; duración no visible en HTML local."
+      "Notas": "Página de planes 2024; duración no visible en HTML local.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "Fuente IPES Caleta Olivia; consolidado previo."
     },
     {
       "Provincia": "Santa Cruz",
@@ -788,7 +812,9 @@
       "Titulo": "",
       "Fuente_URL": "https://ipesco-scr.infd.edu.ar/sitio/planes-de-estudio-correlatividades-horarios-2024/",
       "Documentos_detectados": "Planes/correlatividades/horarios PDF o Drive",
-      "Notas": "Página de planes 2024; duración no visible en HTML local."
+      "Notas": "Página de planes 2024; duración no visible en HTML local.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "/tmp/bedacarratx.txt; fuente IPES Caleta Olivia."
     },
     {
       "Provincia": "Santa Cruz",
@@ -804,7 +830,9 @@
       "Titulo": "",
       "Fuente_URL": "https://ipesco-scr.infd.edu.ar/sitio/planes-de-estudio-correlatividades-horarios-2024/",
       "Documentos_detectados": "Planes/correlatividades/horarios PDF o Drive",
-      "Notas": "Página de planes 2024; duración no visible en HTML local."
+      "Notas": "Página de planes 2024; duración no visible en HTML local.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "/tmp/bedacarratx.txt; fuente IPES Caleta Olivia."
     },
     {
       "Provincia": "Santa Cruz",
@@ -820,7 +848,9 @@
       "Titulo": "",
       "Fuente_URL": "https://ipesco-scr.infd.edu.ar/sitio/planes-de-estudio-correlatividades-horarios-2024/",
       "Documentos_detectados": "Planes/correlatividades/horarios PDF o Drive",
-      "Notas": "Página de planes 2024; duración no visible en HTML local."
+      "Notas": "Página de planes 2024; duración no visible en HTML local.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "/tmp/bedacarratx.txt; fuente IPES Caleta Olivia."
     },
     {
       "Provincia": "Santa Cruz",
@@ -836,7 +866,9 @@
       "Titulo": "",
       "Fuente_URL": "https://ipesco-scr.infd.edu.ar/sitio/planes-de-estudio-correlatividades-horarios-2024/",
       "Documentos_detectados": "Planes/correlatividades/horarios PDF o Drive",
-      "Notas": "Página de planes 2024; duración no visible en HTML local."
+      "Notas": "Página de planes 2024; duración no visible en HTML local.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "/tmp/bedacarratx.txt; fuente IPES Caleta Olivia."
     },
     {
       "Provincia": "Santa Cruz",
@@ -852,7 +884,9 @@
       "Titulo": "Técnico Superior en Generación y Redes Eléctricas",
       "Fuente_URL": "https://inset.edu.ar/carreras-presenciales/",
       "Documentos_detectados": "Resolución/plan PDF y/o catálogo PDF",
-      "Notas": ""
+      "Notas": "",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "Fuente institucional InSET; consolidado previo."
     },
     {
       "Provincia": "Santa Cruz",
@@ -868,7 +902,9 @@
       "Titulo": "Técnico Superior en Mantenimiento Industrial",
       "Fuente_URL": "https://inset.edu.ar/carreras-presenciales/",
       "Documentos_detectados": "Resolución/plan PDF y/o catálogo PDF",
-      "Notas": ""
+      "Notas": "",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "Fuente institucional InSET; consolidado previo."
     },
     {
       "Provincia": "Santa Cruz",
@@ -884,7 +920,9 @@
       "Titulo": "Técnico Superior en Energías Renovables",
       "Fuente_URL": "https://inset.edu.ar/carreras-presenciales/",
       "Documentos_detectados": "Resolución/plan PDF y/o catálogo PDF",
-      "Notas": ""
+      "Notas": "",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "Fuente institucional InSET; consolidado previo."
     },
     {
       "Provincia": "Santa Cruz",
@@ -900,7 +938,9 @@
       "Titulo": "Técnico/a Superior en Hidrocarburos",
       "Fuente_URL": "https://inset.edu.ar/carreras-presenciales/",
       "Documentos_detectados": "Resolución/plan PDF y/o catálogo PDF",
-      "Notas": ""
+      "Notas": "",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "Fuente institucional InSET; consolidado previo."
     },
     {
       "Provincia": "Santa Cruz",
@@ -916,7 +956,9 @@
       "Titulo": "Técnico/a Superior en Bromatología",
       "Fuente_URL": "https://inset.edu.ar/carreras-presenciales/",
       "Documentos_detectados": "Resolución/plan PDF y/o catálogo PDF",
-      "Notas": ""
+      "Notas": "",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "Fuente institucional InSET; consolidado previo."
     },
     {
       "Provincia": "Santa Cruz",
@@ -932,7 +974,9 @@
       "Titulo": "Técnico Superior en Economía Social y Desarrollo Local",
       "Fuente_URL": "https://inset.edu.ar/carreras-presenciales/",
       "Documentos_detectados": "Resolución/plan PDF y/o catálogo PDF",
-      "Notas": ""
+      "Notas": "",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "Fuente institucional InSET; consolidado previo."
     },
     {
       "Provincia": "Santa Cruz",
@@ -948,7 +992,9 @@
       "Titulo": "",
       "Fuente_URL": "https://www.policiadesantacruz.gob.ar/index.php/es/tecnicaturas",
       "Documentos_detectados": "",
-      "Notas": "La fuente lista tecnicaturas/objetivos; no se detectaron planes/resoluciones descargables."
+      "Notas": "La fuente lista tecnicaturas/objetivos; no se detectaron planes/resoluciones descargables.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Santa Cruz",
@@ -964,7 +1010,9 @@
       "Titulo": "",
       "Fuente_URL": "https://www.policiadesantacruz.gob.ar/index.php/es/tecnicaturas",
       "Documentos_detectados": "",
-      "Notas": "La fuente lista tecnicaturas/objetivos; no se detectaron planes/resoluciones descargables."
+      "Notas": "La fuente lista tecnicaturas/objetivos; no se detectaron planes/resoluciones descargables.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Santa Cruz",
@@ -980,7 +1028,9 @@
       "Titulo": "",
       "Fuente_URL": "https://www.policiadesantacruz.gob.ar/index.php/es/tecnicaturas",
       "Documentos_detectados": "",
-      "Notas": "La fuente lista tecnicaturas/objetivos; no se detectaron planes/resoluciones descargables."
+      "Notas": "La fuente lista tecnicaturas/objetivos; no se detectaron planes/resoluciones descargables.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Santa Cruz",
@@ -996,7 +1046,9 @@
       "Titulo": "",
       "Fuente_URL": "https://www.policiadesantacruz.gob.ar/index.php/es/tecnicaturas",
       "Documentos_detectados": "",
-      "Notas": "La fuente lista tecnicaturas/objetivos; no se detectaron planes/resoluciones descargables."
+      "Notas": "La fuente lista tecnicaturas/objetivos; no se detectaron planes/resoluciones descargables.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Santa Cruz",
@@ -1012,7 +1064,9 @@
       "Titulo": "",
       "Fuente_URL": "https://www.policiadesantacruz.gob.ar/index.php/es/tecnicaturas",
       "Documentos_detectados": "",
-      "Notas": "La fuente lista tecnicaturas/objetivos; no se detectaron planes/resoluciones descargables."
+      "Notas": "La fuente lista tecnicaturas/objetivos; no se detectaron planes/resoluciones descargables.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Santa Cruz",
@@ -1028,7 +1082,9 @@
       "Titulo": "",
       "Fuente_URL": "https://educacionsantacruz.gov.ar/el-ipsa-de-rio-gallegos-abrio-las-inscripciones-a-las-ofertas-academicas/",
       "Documentos_detectados": "",
-      "Notas": "Fuente oficial provincial indica gratuidad y validez nacional; sin planes/resoluciones en post."
+      "Notas": "Fuente oficial provincial indica gratuidad y validez nacional; sin planes/resoluciones en post.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Santa Cruz",
@@ -1044,7 +1100,9 @@
       "Titulo": "",
       "Fuente_URL": "https://educacionsantacruz.gov.ar/el-ipsa-de-rio-gallegos-abrio-las-inscripciones-a-las-ofertas-academicas/",
       "Documentos_detectados": "",
-      "Notas": "Fuente oficial provincial indica gratuidad y validez nacional; sin planes/resoluciones en post."
+      "Notas": "Fuente oficial provincial indica gratuidad y validez nacional; sin planes/resoluciones en post.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Santa Cruz",
@@ -1060,7 +1118,9 @@
       "Titulo": "",
       "Fuente_URL": "https://educacionsantacruz.gov.ar/el-ipsa-de-rio-gallegos-abrio-las-inscripciones-a-las-ofertas-academicas/",
       "Documentos_detectados": "",
-      "Notas": "Fuente oficial provincial indica gratuidad y validez nacional; sin planes/resoluciones en post."
+      "Notas": "Fuente oficial provincial indica gratuidad y validez nacional; sin planes/resoluciones en post.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1072,11 +1132,13 @@
       "Modalidad": "Presencial",
       "Turno": "mañana, tarde, vespertino",
       "Sede": "Río Grande / Tolhuin / anexos",
-      "Resolucion": "",
+      "Resolucion": "Resolución M. ED. Nº 1507/07",
       "Titulo": "",
       "Fuente_URL": "PDF local CENT_35_pdf.pdf",
       "Documentos_detectados": "",
-      "Notas": "La asociación exacta carrera-localidad depende de tabla visual; extraído de PDF local."
+      "Notas": "La asociación exacta carrera-localidad depende de tabla visual; extraído de PDF local.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "/tmp/cent35_resolutions/Enfermeria.txt"
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1088,11 +1150,13 @@
       "Modalidad": "Presencial",
       "Turno": "mañana, tarde, vespertino",
       "Sede": "Río Grande / Tolhuin / anexos",
-      "Resolucion": "",
+      "Resolucion": "RESFC-2019-3-E-GDETDF-ME",
       "Titulo": "",
       "Fuente_URL": "PDF local CENT_35_pdf.pdf",
       "Documentos_detectados": "",
-      "Notas": "La asociación exacta carrera-localidad depende de tabla visual; extraído de PDF local."
+      "Notas": "La asociación exacta carrera-localidad depende de tabla visual; extraído de PDF local.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "Referencia documental CENT 35; resolución detectada también en /tmp/institutos_res_work/texts/4_CENT_N_11_Tecnicatura_Superior_en_Acompa_amiento_Terap_utico_resolucion.txt"
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1108,7 +1172,9 @@
       "Titulo": "",
       "Fuente_URL": "PDF local CENT_35_pdf.pdf",
       "Documentos_detectados": "",
-      "Notas": "La asociación exacta carrera-localidad depende de tabla visual; extraído de PDF local."
+      "Notas": "La asociación exacta carrera-localidad depende de tabla visual; extraído de PDF local.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1124,7 +1190,9 @@
       "Titulo": "",
       "Fuente_URL": "PDF local CENT_35_pdf.pdf",
       "Documentos_detectados": "",
-      "Notas": "La asociación exacta carrera-localidad depende de tabla visual; extraído de PDF local."
+      "Notas": "La asociación exacta carrera-localidad depende de tabla visual; extraído de PDF local.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1140,7 +1208,9 @@
       "Titulo": "",
       "Fuente_URL": "PDF local CENT_35_pdf.pdf",
       "Documentos_detectados": "",
-      "Notas": "La asociación exacta carrera-localidad depende de tabla visual; extraído de PDF local."
+      "Notas": "La asociación exacta carrera-localidad depende de tabla visual; extraído de PDF local.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1156,7 +1226,9 @@
       "Titulo": "",
       "Fuente_URL": "PDF local CENT_35_pdf.pdf",
       "Documentos_detectados": "",
-      "Notas": "La asociación exacta carrera-localidad depende de tabla visual; extraído de PDF local."
+      "Notas": "La asociación exacta carrera-localidad depende de tabla visual; extraído de PDF local.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1172,7 +1244,9 @@
       "Titulo": "",
       "Fuente_URL": "PDF local CENT_35_pdf.pdf",
       "Documentos_detectados": "",
-      "Notas": "La asociación exacta carrera-localidad depende de tabla visual; extraído de PDF local."
+      "Notas": "La asociación exacta carrera-localidad depende de tabla visual; extraído de PDF local.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1188,7 +1262,9 @@
       "Titulo": "",
       "Fuente_URL": "PDF local CENT_35_pdf.pdf",
       "Documentos_detectados": "",
-      "Notas": "La asociación exacta carrera-localidad depende de tabla visual; extraído de PDF local."
+      "Notas": "La asociación exacta carrera-localidad depende de tabla visual; extraído de PDF local.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1200,11 +1276,13 @@
       "Modalidad": "Presencial",
       "Turno": "",
       "Sede": "Sede Sábato",
-      "Resolucion": "",
+      "Resolucion": "Resolución M. ED. Nº 1507/07",
       "Titulo": "",
       "Fuente_URL": "https://cent11.edu.ar/carreras.html",
       "Documentos_detectados": "Plan/resolución Drive cuando figura en JS",
-      "Notas": "Oferta extraída del JS institucional."
+      "Notas": "Oferta extraída del JS institucional.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "/tmp/institutos_res_work/texts/16_CENT_N_11_Tecnicatura_Superior_en_Enfermer_a_resolucion.txt"
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1216,11 +1294,13 @@
       "Modalidad": "Presencial",
       "Turno": "",
       "Sede": "Escuela Nº 22",
-      "Resolucion": "",
+      "Resolucion": "Resolución M. ED. Nº 0430/00",
       "Titulo": "",
       "Fuente_URL": "https://cent11.edu.ar/carreras.html",
       "Documentos_detectados": "Plan/resolución Drive cuando figura en JS",
-      "Notas": "Oferta extraída del JS institucional."
+      "Notas": "Oferta extraída del JS institucional.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "/tmp/institutos_res_work/texts/0_CENT_N_11_Analista_Superior_en_Recursos_Humanos_plan.txt"
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1232,11 +1312,13 @@
       "Modalidad": "Presencial",
       "Turno": "",
       "Sede": "Escuela Nº 22",
-      "Resolucion": "",
+      "Resolucion": "Resolución M.E. y C. Nº 522/05",
       "Titulo": "",
       "Fuente_URL": "https://cent11.edu.ar/carreras.html",
       "Documentos_detectados": "Plan/resolución Drive cuando figura en JS",
-      "Notas": "Oferta extraída del JS institucional."
+      "Notas": "Oferta extraída del JS institucional.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "Detectado en documentación CENT 11; carpeta /tmp/institutos_res_work/texts."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1248,11 +1330,13 @@
       "Modalidad": "Presencial",
       "Turno": "",
       "Sede": "Escuela Nº 22",
-      "Resolucion": "",
+      "Resolucion": "Resolución M.E. y C. Nº 0539/99",
       "Titulo": "",
       "Fuente_URL": "https://cent11.edu.ar/carreras.html",
       "Documentos_detectados": "Plan/resolución Drive cuando figura en JS",
-      "Notas": "Oferta extraída del JS institucional."
+      "Notas": "Oferta extraída del JS institucional.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "/tmp/institutos_res_work/texts/9_CENT_N_11_Tecnicatura_Superior_en_Comunicaci_n_Social_resolucion.txt"
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1264,11 +1348,13 @@
       "Modalidad": "Presencial",
       "Turno": "",
       "Sede": "Escuela Nº 22",
-      "Resolucion": "",
+      "Resolucion": "RESFC-2019-31-E-GDETDF-ME",
       "Titulo": "",
       "Fuente_URL": "https://cent11.edu.ar/carreras.html",
       "Documentos_detectados": "Plan/resolución Drive cuando figura en JS",
-      "Notas": "Oferta extraída del JS institucional."
+      "Notas": "Oferta extraída del JS institucional.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "/tmp/institutos_res_work/texts/11_CENT_N_11_Tecnicatura_Superior_en_Dise_o_Imagen_y_Sonido_plan.txt"
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1280,11 +1366,13 @@
       "Modalidad": "Presencial",
       "Turno": "",
       "Sede": "Sede Sábato",
-      "Resolucion": "",
+      "Resolucion": "Resolución M.E.C.C. y T. Nº 0126/2022; antecedente RESFC-2019-3-E-GDETDF-ME",
       "Titulo": "",
       "Fuente_URL": "https://cent11.edu.ar/carreras.html",
       "Documentos_detectados": "Plan/resolución Drive cuando figura en JS",
-      "Notas": "Oferta extraída del JS institucional."
+      "Notas": "Oferta extraída del JS institucional.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "/tmp/institutos_res_work/texts/4_CENT_N_11_Tecnicatura_Superior_en_Acompa_amiento_Terap_utico_resolucion.txt"
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1296,11 +1384,13 @@
       "Modalidad": "Presencial",
       "Turno": "",
       "Sede": "Escuela Nº 16",
-      "Resolucion": "",
+      "Resolucion": "RESFC-2019-4-E-GDETDF-ME",
       "Titulo": "",
       "Fuente_URL": "https://cent11.edu.ar/carreras.html",
       "Documentos_detectados": "Plan/resolución Drive cuando figura en JS",
-      "Notas": "Oferta extraída del JS institucional."
+      "Notas": "Oferta extraída del JS institucional.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "/tmp/institutos_res_work/texts/22_CENT_N_11_Tecnicatura_Superior_en_Transporte_y_Log_stica_resolucion.txt; /tmp/cent35_resolutions/TransporteLogistica.txt"
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1312,11 +1402,13 @@
       "Modalidad": "Presencial",
       "Turno": "",
       "Sede": "Sede Sábato",
-      "Resolucion": "",
+      "Resolucion": "Resolución M.ED. Nº 1933/2024; deroga RESFC-2019-7-E-GDETDF-ME",
       "Titulo": "",
       "Fuente_URL": "https://cent11.edu.ar/carreras.html",
       "Documentos_detectados": "Plan/resolución Drive cuando figura en JS",
-      "Notas": "Oferta extraída del JS institucional."
+      "Notas": "Oferta extraída del JS institucional.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "/tmp/institutos_res_work/texts/14_CENT_N_11_Tecnicatura_Superior_en_Emergencias_Extra_Hospitalarias_resolucion.txt"
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1332,7 +1424,9 @@
       "Titulo": "",
       "Fuente_URL": "https://cent11.edu.ar/carreras.html",
       "Documentos_detectados": "Plan/resolución Drive cuando figura en JS",
-      "Notas": "Oferta extraída del JS institucional."
+      "Notas": "Oferta extraída del JS institucional.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1348,7 +1442,9 @@
       "Titulo": "",
       "Fuente_URL": "https://cent11.edu.ar/carreras.html",
       "Documentos_detectados": "Plan/resolución Drive cuando figura en JS",
-      "Notas": "Oferta extraída del JS institucional."
+      "Notas": "Oferta extraída del JS institucional.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1364,7 +1460,9 @@
       "Titulo": "",
       "Fuente_URL": "https://cent11.edu.ar/carreras.html",
       "Documentos_detectados": "Plan/resolución Drive cuando figura en JS",
-      "Notas": "Oferta extraída del JS institucional."
+      "Notas": "Oferta extraída del JS institucional.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1380,7 +1478,9 @@
       "Titulo": "",
       "Fuente_URL": "https://cent11.edu.ar/carreras.html",
       "Documentos_detectados": "Plan/resolución Drive cuando figura en JS",
-      "Notas": "Oferta extraída del JS institucional."
+      "Notas": "Oferta extraída del JS institucional.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1396,7 +1496,9 @@
       "Titulo": "",
       "Fuente_URL": "https://cent11.edu.ar/carreras.html",
       "Documentos_detectados": "Plan/resolución Drive cuando figura en JS",
-      "Notas": "Oferta extraída del JS institucional."
+      "Notas": "Oferta extraída del JS institucional.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1412,7 +1514,9 @@
       "Titulo": "",
       "Fuente_URL": "https://donboscorgtdf.com/ises/",
       "Documentos_detectados": "Catálogo/normativa/Drive detectado",
-      "Notas": "Fuente indica 3 carreras y títulos oficiales de formación docente."
+      "Notas": "Fuente indica 3 carreras y títulos oficiales de formación docente.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1428,7 +1532,9 @@
       "Titulo": "",
       "Fuente_URL": "https://donboscorgtdf.com/ises/",
       "Documentos_detectados": "Catálogo/normativa/Drive detectado",
-      "Notas": "Fuente indica 3 carreras y títulos oficiales de formación docente."
+      "Notas": "Fuente indica 3 carreras y títulos oficiales de formación docente.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1444,7 +1550,9 @@
       "Titulo": "",
       "Fuente_URL": "https://donboscorgtdf.com/ises/",
       "Documentos_detectados": "Catálogo/normativa/Drive detectado",
-      "Notas": "Fuente indica 3 carreras y títulos oficiales de formación docente."
+      "Notas": "Fuente indica 3 carreras y títulos oficiales de formación docente.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1460,7 +1568,9 @@
       "Titulo": "",
       "Fuente_URL": "https://ipesfa-ushuaia.edu.ar/oferta-academica/",
       "Documentos_detectados": "Plan Drive",
-      "Notas": "Títulos oficiales con validez nacional. Lun-vie 13:10 a 18:00"
+      "Notas": "Títulos oficiales con validez nacional. Lun-vie 13:10 a 18:00",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1472,11 +1582,13 @@
       "Modalidad": "Presencial",
       "Turno": "vespertino",
       "Sede": "",
-      "Resolucion": "",
+      "Resolucion": "Resolución Nº 641/11",
       "Titulo": "",
       "Fuente_URL": "https://ipesfa-ushuaia.edu.ar/oferta-academica/",
       "Documentos_detectados": "Plan Drive",
-      "Notas": "Títulos oficiales con validez nacional. Lun-vie 18:10 a 23:00"
+      "Notas": "Títulos oficiales con validez nacional. Lun-vie 18:10 a 23:00",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "/tmp/tdf_resolutions/texts/038_IPES_Florentino_Ameghino_Ushuaia_Profesorado_de_Biología_su_plan_de_estudios.pdf.txt"
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1492,7 +1604,9 @@
       "Titulo": "",
       "Fuente_URL": "https://ipesfa-ushuaia.edu.ar/oferta-academica/",
       "Documentos_detectados": "Plan Drive",
-      "Notas": "Títulos oficiales con validez nacional. Lun-vie 8:10 a 13:00"
+      "Notas": "Títulos oficiales con validez nacional. Lun-vie 8:10 a 13:00",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1508,7 +1622,9 @@
       "Titulo": "",
       "Fuente_URL": "https://ipesfa-ushuaia.edu.ar/oferta-academica/",
       "Documentos_detectados": "Plan Drive",
-      "Notas": "Títulos oficiales con validez nacional. Lun-vie 8:10 a 13:00"
+      "Notas": "Títulos oficiales con validez nacional. Lun-vie 8:10 a 13:00",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1524,7 +1640,9 @@
       "Titulo": "",
       "Fuente_URL": "https://ipesfa-ushuaia.edu.ar/oferta-academica/",
       "Documentos_detectados": "Plan Drive",
-      "Notas": "Títulos oficiales con validez nacional. Lun-vie 13:10 a 18:00"
+      "Notas": "Títulos oficiales con validez nacional. Lun-vie 13:10 a 18:00",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1540,7 +1658,9 @@
       "Titulo": "",
       "Fuente_URL": "https://ipesfa-ushuaia.edu.ar/oferta-academica/",
       "Documentos_detectados": "Plan Drive",
-      "Notas": "Títulos oficiales con validez nacional. Lun-vie 18:10 a 23:00"
+      "Notas": "Títulos oficiales con validez nacional. Lun-vie 18:10 a 23:00",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1556,7 +1676,9 @@
       "Titulo": "",
       "Fuente_URL": "https://ipesfa-ushuaia.edu.ar/oferta-academica/",
       "Documentos_detectados": "Plan Drive",
-      "Notas": "Títulos oficiales con validez nacional. Lun-vie 13:10 a 18:00"
+      "Notas": "Títulos oficiales con validez nacional. Lun-vie 13:10 a 18:00",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1572,7 +1694,9 @@
       "Titulo": "",
       "Fuente_URL": "https://ipesfa-ushuaia.edu.ar/oferta-academica/",
       "Documentos_detectados": "Plan Drive",
-      "Notas": "Títulos oficiales con validez nacional. Lun-vie 18:10 a 23:00"
+      "Notas": "Títulos oficiales con validez nacional. Lun-vie 18:10 a 23:00",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1584,11 +1708,13 @@
       "Modalidad": "Presencial",
       "Turno": "",
       "Sede": "",
-      "Resolucion": "",
+      "Resolucion": "Resolución M.E.C.C. y T. Nº 1375/2020; antecedente Nº 3313/11",
       "Titulo": "",
       "Fuente_URL": "https://ipesfa-ushuaia.edu.ar/oferta-academica/",
       "Documentos_detectados": "Plan Drive",
-      "Notas": "Títulos oficiales con validez nacional. "
+      "Notas": "Títulos oficiales con validez nacional. ",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "/tmp/tdf_resolutions/texts/040_IPES_Florentino_Ameghino_Ushuaia_Profesorado_de_Educación_Especial_su_plan_de_estudios.pdf.txt"
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1604,7 +1730,9 @@
       "Titulo": "",
       "Fuente_URL": "https://ipesfa-ushuaia.edu.ar/certificacion-docente/",
       "Documentos_detectados": "",
-      "Notas": "Detectada en navegación institucional."
+      "Notas": "Detectada en navegación institucional.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1620,7 +1748,9 @@
       "Titulo": "",
       "Fuente_URL": "https://www.frtdf.utn.edu.ar/index.php/instituto-superior-del-profesorado-rio-grande/",
       "Documentos_detectados": "PDFs/ordenanzas detectadas en sitio UTN",
-      "Notas": "Duración/resolución no visible en HTML local."
+      "Notas": "Duración/resolución no visible en HTML local.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1636,7 +1766,9 @@
       "Titulo": "",
       "Fuente_URL": "https://www.frtdf.utn.edu.ar/index.php/instituto-superior-del-profesorado-rio-grande/",
       "Documentos_detectados": "PDFs/ordenanzas detectadas en sitio UTN",
-      "Notas": "Duración/resolución no visible en HTML local."
+      "Notas": "Duración/resolución no visible en HTML local.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1652,7 +1784,9 @@
       "Titulo": "",
       "Fuente_URL": "https://www.frtdf.utn.edu.ar/index.php/instituto-superior-del-profesorado-rio-grande/",
       "Documentos_detectados": "PDFs/ordenanzas detectadas en sitio UTN",
-      "Notas": "Duración/resolución no visible en HTML local."
+      "Notas": "Duración/resolución no visible en HTML local.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1668,7 +1802,9 @@
       "Titulo": "",
       "Fuente_URL": "https://www.frtdf.utn.edu.ar/index.php/tecnicatura-universitaria-en-programacion-2/",
       "Documentos_detectados": "Plan 2024 y ordenanzas PDF",
-      "Notas": "Aparece en el sitio UTN junto con el ISPRG; revisar alcance si se filtra estrictamente por SNU terciario."
+      "Notas": "Aparece en el sitio UTN junto con el ISPRG; revisar alcance si se filtra estrictamente por SNU terciario.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1684,7 +1820,9 @@
       "Titulo": "",
       "Fuente_URL": "https://policia.tierradelfuego.gob.ar/esc-sup/",
       "Documentos_detectados": "",
-      "Notas": "Orientación Formación Policial; preinscripción Google Form detectado."
+      "Notas": "Orientación Formación Policial; preinscripción Google Form detectado.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "Ya consolidado; fuente Escuela Superior de Policía TDF."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1700,7 +1838,9 @@
       "Titulo": "",
       "Fuente_URL": "https://ipespaulofreire.edu.ar/web/nuestras-carreras/",
       "Documentos_detectados": "Diseño curricular, plan y correlatividades Drive",
-      "Notas": "Carreras gratuitas, sin examen de ingreso ni nivelación según guía local."
+      "Notas": "Carreras gratuitas, sin examen de ingreso ni nivelación según guía local.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1716,7 +1856,9 @@
       "Titulo": "",
       "Fuente_URL": "https://ipespaulofreire.edu.ar/web/nuestras-carreras/",
       "Documentos_detectados": "Diseño curricular, plan y correlatividades Drive",
-      "Notas": "Carreras gratuitas, sin examen de ingreso ni nivelación según guía local."
+      "Notas": "Carreras gratuitas, sin examen de ingreso ni nivelación según guía local.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1728,11 +1870,13 @@
       "Modalidad": "Presencial",
       "Turno": "vespertino",
       "Sede": "",
-      "Resolucion": "",
+      "Resolucion": "Resolución M.E.C.CyT Nº 1375/2020",
       "Titulo": "",
       "Fuente_URL": "https://ipespaulofreire.edu.ar/web/nuestras-carreras/",
       "Documentos_detectados": "Diseño curricular, plan y correlatividades Drive",
-      "Notas": "Carreras gratuitas, sin examen de ingreso ni nivelación según guía local."
+      "Notas": "Carreras gratuitas, sin examen de ingreso ni nivelación según guía local.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "/tmp/tdf_resolutions/texts/054_IPES_Paulo_Freire_Nuestras_Carreras_Plan_de_estudios_2020.pdf.txt"
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1744,11 +1888,13 @@
       "Modalidad": "Presencial",
       "Turno": "vespertino",
       "Sede": "",
-      "Resolucion": "",
+      "Resolucion": "Resolución MECCyT Nº 4333/12",
       "Titulo": "",
       "Fuente_URL": "https://ipespaulofreire.edu.ar/web/nuestras-carreras/",
       "Documentos_detectados": "Diseño curricular, plan y correlatividades Drive",
-      "Notas": "Carreras gratuitas, sin examen de ingreso ni nivelación según guía local."
+      "Notas": "Carreras gratuitas, sin examen de ingreso ni nivelación según guía local.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "/tmp/tdf_resolutions/texts/051_IPES_Paulo_Freire_Nuestras_Carreras_Plan_de_estudios_2012.pdf.txt"
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1760,11 +1906,13 @@
       "Modalidad": "Presencial",
       "Turno": "mañana",
       "Sede": "",
-      "Resolucion": "",
+      "Resolucion": "Resolución M.E. Nº 0335/15; Resolución M.E.C.C.yT. Nº 1368/2020",
       "Titulo": "",
       "Fuente_URL": "https://ipespaulofreire.edu.ar/web/nuestras-carreras/",
       "Documentos_detectados": "Diseño curricular, plan y correlatividades Drive",
-      "Notas": "Carreras gratuitas, sin examen de ingreso ni nivelación según guía local."
+      "Notas": "Carreras gratuitas, sin examen de ingreso ni nivelación según guía local.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "/tmp/tdf_resolutions/texts/049_IPES_Paulo_Freire_Nuestras_Carreras_Plan_de_estudios.pdf.txt; /tmp/tdf_resolutions/texts/050_IPES_Paulo_Freire_Nuestras_Carreras_Diseño_curricular.pdf.txt"
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1780,7 +1928,9 @@
       "Titulo": "",
       "Fuente_URL": "https://ipespaulofreire.edu.ar/web/nuestras-carreras/",
       "Documentos_detectados": "Diseño curricular, plan y correlatividades Drive",
-      "Notas": "Carreras gratuitas, sin examen de ingreso ni nivelación según guía local."
+      "Notas": "Carreras gratuitas, sin examen de ingreso ni nivelación según guía local.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1792,11 +1942,13 @@
       "Modalidad": "Presencial",
       "Turno": "tarde",
       "Sede": "",
-      "Resolucion": "",
+      "Resolucion": "Resolución M.E.C.C. y T. Nº 4334/2012",
       "Titulo": "",
       "Fuente_URL": "https://ipespaulofreire.edu.ar/web/nuestras-carreras/",
       "Documentos_detectados": "Diseño curricular, plan y correlatividades Drive",
-      "Notas": "Carreras gratuitas, sin examen de ingreso ni nivelación según guía local."
+      "Notas": "Carreras gratuitas, sin examen de ingreso ni nivelación según guía local.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "/tmp/tdf_resolutions/texts/056_IPES_Paulo_Freire_Nuestras_Carreras_Plan_de_estudios_2012.pdf.txt"
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1808,11 +1960,13 @@
       "Modalidad": "Presencial",
       "Turno": "vespertino",
       "Sede": "",
-      "Resolucion": "",
+      "Resolucion": "Resolución M.ED. Nº 00__/2013 (número ilegible/no completado en OCR)",
       "Titulo": "",
       "Fuente_URL": "https://ipespaulofreire.edu.ar/web/nuestras-carreras/",
       "Documentos_detectados": "Diseño curricular, plan y correlatividades Drive",
-      "Notas": "Carreras gratuitas, sin examen de ingreso ni nivelación según guía local."
+      "Notas": "Carreras gratuitas, sin examen de ingreso ni nivelación según guía local.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "/tmp/tdf_resolutions/texts/057_IPES_Paulo_Freire_Nuestras_Carreras_Diseño_curricular_2013.pdf.txt"
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1824,11 +1978,13 @@
       "Modalidad": "Bimodal",
       "Turno": "vespertino",
       "Sede": "",
-      "Resolucion": "",
+      "Resolucion": "Resolución M.E. Nº 3154/21",
       "Titulo": "",
       "Fuente_URL": "https://ipespaulofreire.edu.ar/web/nuestras-carreras/",
       "Documentos_detectados": "",
-      "Notas": "Requiere título de nivel superior."
+      "Notas": "Requiere título de nivel superior.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "/tmp/tdf_resolutions/texts/052_IPES_Paulo_Freire_Nuestras_Carreras_Plan_de_estudios_2021.pdf.txt"
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1844,7 +2000,9 @@
       "Titulo": "",
       "Fuente_URL": "Nota Municipalidad de Ushuaia",
       "Documentos_detectados": "",
-      "Notas": "No se detectaron duración, planes o resoluciones en HTML local."
+      "Notas": "No se detectaron duración, planes o resoluciones en HTML local.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1860,7 +2018,9 @@
       "Titulo": "",
       "Fuente_URL": "Nota Municipalidad de Ushuaia",
       "Documentos_detectados": "",
-      "Notas": "No se detectaron duración, planes o resoluciones en HTML local."
+      "Notas": "No se detectaron duración, planes o resoluciones en HTML local.",
+      "Resolucion_estado": "pendiente_no_detectada",
+      "Evidencia_resolucion": "No se detectó resolución específica en el relevamiento local; revisar fuente oficial/documento institucional."
     },
     {
       "Provincia": "Tierra del Fuego",
@@ -1872,11 +2032,13 @@
       "Modalidad": "",
       "Turno": "",
       "Sede": "",
-      "Resolucion": "",
+      "Resolucion": "Validez nacional vinculada a Resolución CFE Nº 346/18; documento institucional menciona Resolución Nº 352/19",
       "Titulo": "",
       "Fuente_URL": "https://politecnico.ar/campus/",
       "Documentos_detectados": "Validez nacional + información Drive",
-      "Notas": "No se detectó duración/resolución textual en HTML local."
+      "Notas": "No se detectó duración/resolución textual en HTML local.",
+      "Resolucion_estado": "verificada_en_fuente_local",
+      "Evidencia_resolucion": "/tmp/tdf_resolutions/texts/027_CETNS_Centro_Politécnico_Malvinas_Argentinas_DESCARGAR_INFORMACIÓN.pdf.txt; /tmp/tdf_resolutions/texts/028_CETNS_Centro_Politécnico_Malvinas_Argentinas_VALIDEZ_NACIONAL.pdf.txt"
     }
   ],
   "documentos": [
@@ -4967,6 +5129,37 @@
     {
       "Tema": "Descargas",
       "Nota": "Se priorizaron planes, resoluciones, diseños, correlatividades, ordenanzas y documentos normativos. Se omitieron horarios y formularios/fichas."
+    },
+    "Actualización 2026-05-19: se agregaron campos Resolucion_estado y Evidencia_resolucion; se consolidaron resoluciones detectadas en OCR/textos locales. Pendientes quedan marcados como pendiente_no_detectada."
+  ],
+  "resumen_consolidado": [
+    {
+      "Métrica": "Instituciones normalizadas",
+      "Valor": 16
+    },
+    {
+      "Métrica": "Registros de padrón/anexos",
+      "Valor": 28
+    },
+    {
+      "Métrica": "Ofertas/carreras relevadas",
+      "Valor": 81
+    },
+    {
+      "Métrica": "Documentos/fuentes detectadas",
+      "Valor": 219
+    },
+    {
+      "Métrica": "Ofertas con resolución verificada/local o consolidada",
+      "Valor": 38
+    },
+    {
+      "Métrica": "Ofertas pendientes de resolución específica",
+      "Valor": 43
+    },
+    {
+      "Métrica": "Fecha de corte",
+      "Valor": "2026-05-19 06:45 ART"
     }
   ]
 }
