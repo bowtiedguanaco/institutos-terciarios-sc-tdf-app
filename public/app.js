@@ -51,7 +51,7 @@ async function showApp() {
   el('auth').hidden = true;
   el('app').hidden = false;
   if (!payload) {
-    payload = await fetch('/data.json').then(r => r.json());
+    payload = await fetch('data.json').then(r => r.json());
     hydrateControls();
     bindControls();
   }
